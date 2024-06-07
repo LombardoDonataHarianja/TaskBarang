@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "razmon",
+    "password": "razmon",
+    "database": "tugas",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "razmon",
+    "password": "razmon",
+    "database": "tugas",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "razmon",
+    "password": "razmon",
+    "database": "tugas",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
